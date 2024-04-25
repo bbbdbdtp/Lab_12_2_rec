@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\Programs\Visual Studio\Projects\Lab_12_2_rec\Lab_12_2_rec\Main.cpp(50): warning C4715: 'createListRecursive': not all control paths return a value
+     Creating library D:\Programs\Visual Studio\Projects\Lab_12_2_rec\x64\Debug\UnitTest1.lib and object D:\Programs\Visual Studio\Projects\Lab_12_2_rec\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Programs\Visual Studio\Projects\Lab_12_2_rec\x64\Debug\UnitTest1.dll
